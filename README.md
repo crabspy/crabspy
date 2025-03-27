@@ -1,4 +1,4 @@
-# Hi, I am crabspy! 👋
+# Hi, I am Aryan! 👋
 ## About me:
 I am a sencond year computer science student. I travelling and watching movies/tv-shows. Within the world of computer science, I am most interested in game  development and data analytics.
 I have some experiece in godot, Figma, and Wordpress.  
